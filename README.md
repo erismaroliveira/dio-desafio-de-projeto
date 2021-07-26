@@ -3,8 +3,8 @@ Repositório criado para o Desafio de Projeto
 
 <h1 align="left">
   <div background-color='#ff90000'>
-    <img width="300" src="https://github.com/erismaroliveira/dio-desafio-de-projeto/blob/main/everis-logo.png"/>
-     <img width="500" src="https://github.com/erismaroliveira/dio-desafio-de-projeto/blob/main/dio-logo.png"/>
+    <img width="300" src="https://github.com/erismaroliveira/dio-desafio-de-projeto/blob/main/imagens/everis-logo.png"/>
+     <img width="500" src="https://github.com/erismaroliveira/dio-desafio-de-projeto/blob/main/imagens/dio-logo.png"/>
   </div>
 </h1>
 
